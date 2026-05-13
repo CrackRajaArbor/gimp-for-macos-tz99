@@ -1,4 +1,4 @@
-# 
+# smart Script for Gimp for macOS - AI-assisted design and content-aware fill is the best Gimp for macOS script, featuring AI-assisted design and content-aware fill. Safe,
 
 
 
